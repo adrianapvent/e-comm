@@ -11,7 +11,7 @@ You may visit the deployed [website]() to try it out for yourself!
 
 ## Table of Contents
 
-- [Employee Footprint](#employee-footprint)
+- [Employee Footprint](#)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
