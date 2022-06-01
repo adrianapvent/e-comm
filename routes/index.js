@@ -5,3 +5,5 @@ router.use((req, res) => {
   res.send("<h1>Wrong Route!</h1>")
 });
 module.exports = router;
+
+// router.use = http://localhost:3001/api
