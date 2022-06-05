@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
-# Employee Footprint
+# Employee Tracker
 
 ## Description
 
@@ -11,7 +11,7 @@ You may visit the deployed [website]() to try it out for yourself!
 
 ## Table of Contents
 
-- [Employee Footprint](#)
+- [Employee Tracker](#)
   - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [User Story](#user-story)
